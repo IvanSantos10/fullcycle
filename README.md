@@ -1,5 +1,13 @@
 # fullcycle
 
-# docker pull ivansantos/fullcycle
+# pull 
 
-# docker run --publish 8000:8000 --name go --rm ivansantos/fullcycle
+```
+docker pull ivansantos/fullcycle
+```
+
+# run
+
+```
+docker run --rm ivansantos/fullcycle
+``
